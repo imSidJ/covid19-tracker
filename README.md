@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1ae09463-3c16-41f1-8e15-d79b70fa4b91/deploy-status)](https://app.netlify.com/sites/covid19-tracker-sid/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
